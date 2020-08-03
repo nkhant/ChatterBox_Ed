@@ -115,6 +115,13 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClInclude Include="Learner.h" />
+    <ClInclude Include="Voice.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Learner.cpp" />
+    <ClCompile Include="Main.cpp" />
+    <ClCompile Include="Voice.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

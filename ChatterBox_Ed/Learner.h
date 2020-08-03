@@ -1,5 +1,5 @@
 #pragma once
-#ifdef _LEARNER_H
+#ifndef _LEARNER_H
 #define _LEARNER_H
 
 #include <iostream>
@@ -13,6 +13,6 @@ public:
 	void respond(string phrase); // Used to get, or teach a response
 	void say(string phrase); // Used to textually and audibly communicate a phrase
 
-	Voice voice // The learner's voice that will audbily communicate a reponse
+	Voice voice; // The learner's voice that will audbily communicate a reponse
 };
 #endif // _LEARNER_H
