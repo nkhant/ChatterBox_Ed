@@ -4,4 +4,4 @@
  Followed https://www.instructables.com/ tutorial
 
 Goal
-- Wanted to intergrated it into discord but had trouble integrating Sleep Discord
+- Wanted to intergrated it into discord but had trouble integrating Sleepy Discord
